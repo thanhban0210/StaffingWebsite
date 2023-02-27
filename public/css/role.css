@@ -1,0 +1,69 @@
+body {
+    font-family: 'Urbanist', sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.navbar-nav li a {
+    font-size: 20px;
+    /* Increase the font size to 20px */
+}
+
+nav {
+    border-bottom: 1px solid rgb(168, 168, 168);
+    background-color: rgb(248, 248, 250);
+}
+
+.btn-custom {
+    color: #fff;
+    background-color: #2A32C5;
+    font-weight: bolder;
+
+}
+
+.btn-custom:hover {
+    color: #fff;
+    background-color: #0712f1;
+}
+
+#first-container {
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#second-container {
+    background-color: #f1f1f1;
+}
+
+.col-md-6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+h4 {
+    font-weight: bolder;
+}
+
+input {
+    width: 150px;
+}
+
+small {
+    font-size: 10px;
+}
